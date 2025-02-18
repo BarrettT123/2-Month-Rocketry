@@ -1,2 +1,2 @@
-  This project was part of the Space Hardware Club (SHC)'s 2-month program, where we designed built and flew a high power rocket with custom areobrakes, and a custom flight computer. My position on the project was Electrical Team Lead.
+  This project was part of the Space Hardware Club (SHC)'s 2-month program, where we designed built and flew a high power rocket with custom areobrakes, and a custom flight computer. My position on the project was Electrical Team Lead. In this position I was incharge of a small group of people, and we were incharge of the avionics for the rocket, and integrating with the mechanical and software teams. While I mainly was incharge of the design and assembly of the flight computer, I also helped out on the software team a little.
 
