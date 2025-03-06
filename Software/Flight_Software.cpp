@@ -217,7 +217,7 @@ void setup() {
   if (csvName == 0) {
     leds[3] = CRGB(255,0,0);
     SRLPrintln("\nMemory allocation error while trying to find a CSV file name");
-    SRLPrintln("How many fucking times did you run this thing");
+    SRLPrintln("How many times did you run this thing");
     while(1);
   }
   SRLPrint("\nInitializing CSV file ");
